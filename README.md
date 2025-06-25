@@ -1,8 +1,8 @@
-# 🐉 DragonBite – Full Stack E-commerce Platform
+#  🍎 DragonBite – Full Stack E-commerce Platform
 
 DragonBite is a modern full-stack e-commerce web application built using **React (Frontend)** and **Spring Boot (Backend)**. It includes features like JWT authentication, cart management, real-time notifications, admin dashboard, and more.
 
-![DragonBite Banner](Images/Screenshot 2025-03-19 220230.png)
+![DragonBite Banner](Images/home.png)
 
 ---
 
@@ -34,7 +34,7 @@ DragonBite is a modern full-stack e-commerce web application built using **React
 
 | Home Page | Product Page | Admin Dashboard |
 |-----------|--------------|-----------------|
-| ![Home](Images/Screenshot 2025-03-19 220651.png) | ![Product](Images/Screenshot 2025-03-19 220603.png) | ![Cart](Images/Screenshot 2025-03-19 220651.png) |
+| ![Home](Images/blog.png) | ![Product](Images/product.png) | ![Cart](Images/cart.png) |
 
 ---
 
@@ -56,5 +56,5 @@ DragonBite is a modern full-stack e-commerce web application built using **React
 
 
 **Built with ❤️ by Priyanshu Jain**
-- Part of personal learning and system design exploration.
+**Part of personal learning and system design exploration.**
 
